@@ -9,8 +9,8 @@
   },
   "hostRequirements": {
     "cpus": 2,
-    "memory": "32gb",
-    "storage": "64gb"
+    "memory": "8gb",
+    "storage": "32gb"
   },
   "features": {
     "ghcr.io/devcontainers/features/azure-cli:1": {
